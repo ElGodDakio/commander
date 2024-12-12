@@ -1,0 +1,25 @@
+{
+  "name": "commander",
+  "version": "1.0.0",
+  "description": "Command API for Bedrock Scripting API",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElGodDakio/commander.git"
+  },
+  "author": "ElGodDakio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElGodDakio/commander/issues"
+  },
+  "homepage": "https://github.com/ElGodDakio/commander#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@minecraft/server": "^1.17.0-beta.1.21.51-stable"
+  }
+}
